@@ -11,3 +11,13 @@ input, textarea {
     display: block;
     margin: 10px 0;
 }
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+button {
+    display: block;
+    margin-top: 10px;
+}
